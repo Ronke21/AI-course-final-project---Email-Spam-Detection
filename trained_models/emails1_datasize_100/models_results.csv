@@ -1,0 +1,253 @@
+model,feature_matrix,accuracy,precision,recall,f1_score
+KNN,word_1_100,0.84,0.9,0.84375,0.87096774
+KNN,word_2_100,0.78,0.76923077,0.9375,0.84507042
+KNN,word_3_100,0.48,0.65,0.40625,0.5
+KNN,word_1_500,0.92,0.9375,0.9375,0.9375
+KNN,word_2_500,0.66,0.65306122,1.0,0.79012345
+KNN,word_3_500,0.66,0.65957447,0.96875,0.78481013
+KNN,word_1_1000,0.96,1.0,0.9375,0.96774194
+KNN,word_2_1000,0.86,0.93103448,0.84375,0.8852459
+KNN,word_3_1000,0.76,0.77777778,0.875,0.82352941
+KNN,word_1_2000,0.9,0.93548387,0.90625,0.92063492
+KNN,word_2_2000,0.88,0.96428571,0.84375,0.9
+KNN,word_3_2000,0.76,0.77777778,0.875,0.82352941
+KNN,word_1_3000,0.9,0.93548387,0.90625,0.92063492
+KNN,word_2_3000,0.88,0.96428571,0.84375,0.9
+KNN,word_3_3000,0.76,0.77777778,0.875,0.82352941
+KNN,word_1_4000,0.9,0.93548387,0.90625,0.92063492
+KNN,word_2_4000,0.88,0.96428571,0.84375,0.9
+KNN,word_3_4000,0.76,0.77777778,0.875,0.82352941
+KNN,word_1_5000,0.9,0.93548387,0.90625,0.92063492
+KNN,word_2_5000,0.88,0.96428571,0.84375,0.9
+KNN,word_3_5000,0.76,0.77777778,0.875,0.82352941
+KNN,word_1_6000,0.9,0.93548387,0.90625,0.92063492
+KNN,word_2_6000,0.88,0.96428571,0.84375,0.9
+KNN,word_3_6000,0.76,0.77777778,0.875,0.82352941
+KNN,word_1_7000,0.9,0.93548387,0.90625,0.92063492
+KNN,word_2_7000,0.88,0.96428571,0.84375,0.9
+KNN,word_3_7000,0.76,0.77777778,0.875,0.82352941
+KNN,word_1_8000,0.9,0.93548387,0.90625,0.92063492
+KNN,word_2_8000,0.88,0.96428571,0.84375,0.9
+KNN,word_3_8000,0.76,0.77777778,0.875,0.82352941
+KNN,word_1_9000,0.9,0.93548387,0.90625,0.92063492
+KNN,word_2_9000,0.88,0.96428571,0.84375,0.9
+KNN,word_3_9000,0.76,0.77777778,0.875,0.82352941
+KNN,word_1_10000,0.9,0.93548387,0.90625,0.92063492
+KNN,word_2_10000,0.88,0.96428571,0.84375,0.9
+KNN,word_3_10000,0.76,0.77777778,0.875,0.82352941
+Logistic Regression,word_1_100,0.9,0.96551724,0.875,0.91803279
+Logistic Regression,word_2_100,0.86,0.90322581,0.875,0.88888889
+Logistic Regression,word_3_100,0.92,0.88888889,1.0,0.94117647
+Logistic Regression,word_1_500,0.94,1.0,0.90625,0.95081967
+Logistic Regression,word_2_500,0.9,0.96551724,0.875,0.91803279
+Logistic Regression,word_3_500,0.92,0.9375,0.9375,0.9375
+Logistic Regression,word_1_1000,0.92,1.0,0.875,0.93333333
+Logistic Regression,word_2_1000,0.86,1.0,0.78125,0.87719298
+Logistic Regression,word_3_1000,0.78,0.95652174,0.6875,0.8
+Logistic Regression,word_1_2000,0.92,1.0,0.875,0.93333333
+Logistic Regression,word_2_2000,0.84,1.0,0.75,0.85714286
+Logistic Regression,word_3_2000,0.78,0.95652174,0.6875,0.8
+Logistic Regression,word_1_3000,0.92,1.0,0.875,0.93333333
+Logistic Regression,word_2_3000,0.84,1.0,0.75,0.85714286
+Logistic Regression,word_3_3000,0.78,0.95652174,0.6875,0.8
+Logistic Regression,word_1_4000,0.92,1.0,0.875,0.93333333
+Logistic Regression,word_2_4000,0.84,1.0,0.75,0.85714286
+Logistic Regression,word_3_4000,0.78,0.95652174,0.6875,0.8
+Logistic Regression,word_1_5000,0.92,1.0,0.875,0.93333333
+Logistic Regression,word_2_5000,0.84,1.0,0.75,0.85714286
+Logistic Regression,word_3_5000,0.78,0.95652174,0.6875,0.8
+Logistic Regression,word_1_6000,0.92,1.0,0.875,0.93333333
+Logistic Regression,word_2_6000,0.84,1.0,0.75,0.85714286
+Logistic Regression,word_3_6000,0.78,0.95652174,0.6875,0.8
+Logistic Regression,word_1_7000,0.92,1.0,0.875,0.93333333
+Logistic Regression,word_2_7000,0.84,1.0,0.75,0.85714286
+Logistic Regression,word_3_7000,0.78,0.95652174,0.6875,0.8
+Logistic Regression,word_1_8000,0.92,1.0,0.875,0.93333333
+Logistic Regression,word_2_8000,0.84,1.0,0.75,0.85714286
+Logistic Regression,word_3_8000,0.78,0.95652174,0.6875,0.8
+Logistic Regression,word_1_9000,0.92,1.0,0.875,0.93333333
+Logistic Regression,word_2_9000,0.84,1.0,0.75,0.85714286
+Logistic Regression,word_3_9000,0.78,0.95652174,0.6875,0.8
+Logistic Regression,word_1_10000,0.92,1.0,0.875,0.93333333
+Logistic Regression,word_2_10000,0.84,1.0,0.75,0.85714286
+Logistic Regression,word_3_10000,0.78,0.95652174,0.6875,0.8
+Multinomial Naive Bayes,word_1_100,0.94,0.96774194,0.9375,0.95238095
+Multinomial Naive Bayes,word_2_100,0.78,0.86206897,0.78125,0.81967213
+Multinomial Naive Bayes,word_3_100,0.66,0.94117647,0.5,0.65306122
+Multinomial Naive Bayes,word_1_500,0.96,1.0,0.9375,0.96774194
+Multinomial Naive Bayes,word_2_500,0.82,1.0,0.71875,0.83636364
+Multinomial Naive Bayes,word_3_500,0.7,1.0,0.53125,0.69387755
+Multinomial Naive Bayes,word_1_1000,0.86,1.0,0.78125,0.87719298
+Multinomial Naive Bayes,word_2_1000,0.82,1.0,0.71875,0.83636364
+Multinomial Naive Bayes,word_3_1000,0.68,0.94444444,0.53125,0.68
+Multinomial Naive Bayes,word_1_2000,0.84,1.0,0.75,0.85714286
+Multinomial Naive Bayes,word_2_2000,0.8,1.0,0.6875,0.81481481
+Multinomial Naive Bayes,word_3_2000,0.68,0.94444444,0.53125,0.68
+Multinomial Naive Bayes,word_1_3000,0.84,1.0,0.75,0.85714286
+Multinomial Naive Bayes,word_2_3000,0.8,1.0,0.6875,0.81481481
+Multinomial Naive Bayes,word_3_3000,0.68,0.94444444,0.53125,0.68
+Multinomial Naive Bayes,word_1_4000,0.84,1.0,0.75,0.85714286
+Multinomial Naive Bayes,word_2_4000,0.8,1.0,0.6875,0.81481481
+Multinomial Naive Bayes,word_3_4000,0.68,0.94444444,0.53125,0.68
+Multinomial Naive Bayes,word_1_5000,0.84,1.0,0.75,0.85714286
+Multinomial Naive Bayes,word_2_5000,0.8,1.0,0.6875,0.81481481
+Multinomial Naive Bayes,word_3_5000,0.68,0.94444444,0.53125,0.68
+Multinomial Naive Bayes,word_1_6000,0.84,1.0,0.75,0.85714286
+Multinomial Naive Bayes,word_2_6000,0.8,1.0,0.6875,0.81481481
+Multinomial Naive Bayes,word_3_6000,0.68,0.94444444,0.53125,0.68
+Multinomial Naive Bayes,word_1_7000,0.84,1.0,0.75,0.85714286
+Multinomial Naive Bayes,word_2_7000,0.8,1.0,0.6875,0.81481481
+Multinomial Naive Bayes,word_3_7000,0.68,0.94444444,0.53125,0.68
+Multinomial Naive Bayes,word_1_8000,0.84,1.0,0.75,0.85714286
+Multinomial Naive Bayes,word_2_8000,0.8,1.0,0.6875,0.81481481
+Multinomial Naive Bayes,word_3_8000,0.68,0.94444444,0.53125,0.68
+Multinomial Naive Bayes,word_1_9000,0.84,1.0,0.75,0.85714286
+Multinomial Naive Bayes,word_2_9000,0.8,1.0,0.6875,0.81481481
+Multinomial Naive Bayes,word_3_9000,0.68,0.94444444,0.53125,0.68
+Multinomial Naive Bayes,word_1_10000,0.84,1.0,0.75,0.85714286
+Multinomial Naive Bayes,word_2_10000,0.8,1.0,0.6875,0.81481481
+Multinomial Naive Bayes,word_3_10000,0.68,0.94444444,0.53125,0.68
+Support Vector Machine,word_1_100,0.9,0.96551724,0.875,0.91803279
+Support Vector Machine,word_2_100,0.86,0.90322581,0.875,0.88888889
+Support Vector Machine,word_3_100,0.9,0.90909091,0.9375,0.92307692
+Support Vector Machine,word_1_500,0.96,1.0,0.9375,0.96774194
+Support Vector Machine,word_2_500,0.84,1.0,0.75,0.85714286
+Support Vector Machine,word_3_500,0.82,0.89655172,0.8125,0.85245901
+Support Vector Machine,word_1_1000,0.92,1.0,0.875,0.93333333
+Support Vector Machine,word_2_1000,0.82,1.0,0.71875,0.83636364
+Support Vector Machine,word_3_1000,0.8,0.89285714,0.78125,0.83333333
+Support Vector Machine,word_1_2000,0.94,1.0,0.90625,0.95081967
+Support Vector Machine,word_2_2000,0.84,1.0,0.75,0.85714286
+Support Vector Machine,word_3_2000,0.8,0.89285714,0.78125,0.83333333
+Support Vector Machine,word_1_3000,0.94,1.0,0.90625,0.95081967
+Support Vector Machine,word_2_3000,0.84,1.0,0.75,0.85714286
+Support Vector Machine,word_3_3000,0.8,0.89285714,0.78125,0.83333333
+Support Vector Machine,word_1_4000,0.94,1.0,0.90625,0.95081967
+Support Vector Machine,word_2_4000,0.84,1.0,0.75,0.85714286
+Support Vector Machine,word_3_4000,0.8,0.89285714,0.78125,0.83333333
+Support Vector Machine,word_1_5000,0.94,1.0,0.90625,0.95081967
+Support Vector Machine,word_2_5000,0.84,1.0,0.75,0.85714286
+Support Vector Machine,word_3_5000,0.8,0.89285714,0.78125,0.83333333
+Support Vector Machine,word_1_6000,0.94,1.0,0.90625,0.95081967
+Support Vector Machine,word_2_6000,0.84,1.0,0.75,0.85714286
+Support Vector Machine,word_3_6000,0.8,0.89285714,0.78125,0.83333333
+Support Vector Machine,word_1_7000,0.94,1.0,0.90625,0.95081967
+Support Vector Machine,word_2_7000,0.84,1.0,0.75,0.85714286
+Support Vector Machine,word_3_7000,0.8,0.89285714,0.78125,0.83333333
+Support Vector Machine,word_1_8000,0.94,1.0,0.90625,0.95081967
+Support Vector Machine,word_2_8000,0.84,1.0,0.75,0.85714286
+Support Vector Machine,word_3_8000,0.8,0.89285714,0.78125,0.83333333
+Support Vector Machine,word_1_9000,0.94,1.0,0.90625,0.95081967
+Support Vector Machine,word_2_9000,0.84,1.0,0.75,0.85714286
+Support Vector Machine,word_3_9000,0.8,0.89285714,0.78125,0.83333333
+Support Vector Machine,word_1_10000,0.94,1.0,0.90625,0.95081967
+Support Vector Machine,word_2_10000,0.84,1.0,0.75,0.85714286
+Support Vector Machine,word_3_10000,0.8,0.89285714,0.78125,0.83333333
+Decision Tree,word_1_100,0.84,0.9,0.84375,0.87096774
+Decision Tree,word_2_100,0.8,0.86666667,0.8125,0.83870968
+Decision Tree,word_3_100,0.88,0.84210526,1.0,0.91428571
+Decision Tree,word_1_500,0.84,0.9,0.84375,0.87096774
+Decision Tree,word_2_500,0.74,0.88,0.6875,0.77192982
+Decision Tree,word_3_500,0.88,0.86111111,0.96875,0.91176471
+Decision Tree,word_1_1000,0.92,0.91176471,0.96875,0.93939394
+Decision Tree,word_2_1000,0.74,0.82758621,0.75,0.78688525
+Decision Tree,word_3_1000,0.9,0.88571429,0.96875,0.92537314
+Decision Tree,word_1_2000,0.94,0.91428571,1.0,0.95522388
+Decision Tree,word_2_2000,0.78,0.86206897,0.78125,0.81967213
+Decision Tree,word_3_2000,0.88,0.90625,0.90625,0.90625
+Decision Tree,word_1_3000,0.9,0.90909091,0.9375,0.92307692
+Decision Tree,word_2_3000,0.76,0.85714286,0.75,0.8
+Decision Tree,word_3_3000,0.84,0.85294118,0.90625,0.87878788
+Decision Tree,word_1_4000,0.94,0.91428571,1.0,0.95522388
+Decision Tree,word_2_4000,0.8,0.86666667,0.8125,0.83870968
+Decision Tree,word_3_4000,0.88,0.86111111,0.96875,0.91176471
+Decision Tree,word_1_5000,0.86,0.90322581,0.875,0.88888889
+Decision Tree,word_2_5000,0.82,0.89655172,0.8125,0.85245901
+Decision Tree,word_3_5000,0.88,0.86111111,0.96875,0.91176471
+Decision Tree,word_1_6000,0.94,0.91428571,1.0,0.95522388
+Decision Tree,word_2_6000,0.76,0.88461538,0.71875,0.79310345
+Decision Tree,word_3_6000,0.88,0.86111111,0.96875,0.91176471
+Decision Tree,word_1_7000,0.9,0.90909091,0.9375,0.92307692
+Decision Tree,word_2_7000,0.8,0.89285714,0.78125,0.83333333
+Decision Tree,word_3_7000,0.82,0.82857143,0.90625,0.86567164
+Decision Tree,word_1_8000,0.88,0.90625,0.90625,0.90625
+Decision Tree,word_2_8000,0.76,0.83333333,0.78125,0.80645161
+Decision Tree,word_3_8000,0.86,0.83783784,0.96875,0.89855073
+Decision Tree,word_1_9000,0.88,0.90625,0.90625,0.90625
+Decision Tree,word_2_9000,0.76,0.85714286,0.75,0.8
+Decision Tree,word_3_9000,0.86,0.83783784,0.96875,0.89855073
+Decision Tree,word_1_10000,0.86,0.90322581,0.875,0.88888889
+Decision Tree,word_2_10000,0.78,0.88888889,0.75,0.81355932
+Decision Tree,word_3_10000,0.86,0.87878788,0.90625,0.89230769
+Random Forest,word_1_100,0.94,0.93939394,0.96875,0.95384615
+Random Forest,word_2_100,0.82,0.89655172,0.8125,0.85245901
+Random Forest,word_3_100,0.92,0.88888889,1.0,0.94117647
+Random Forest,word_1_500,0.96,0.96875,0.96875,0.96875
+Random Forest,word_2_500,0.82,0.87096774,0.84375,0.85714286
+Random Forest,word_3_500,0.92,0.88888889,1.0,0.94117647
+Random Forest,word_1_1000,0.92,0.9375,0.9375,0.9375
+Random Forest,word_2_1000,0.86,0.87878788,0.90625,0.89230769
+Random Forest,word_3_1000,0.92,0.91176471,0.96875,0.93939394
+Random Forest,word_1_2000,0.96,0.96875,0.96875,0.96875
+Random Forest,word_2_2000,0.88,0.86111111,0.96875,0.91176471
+Random Forest,word_3_2000,0.92,0.91176471,0.96875,0.93939394
+Random Forest,word_1_3000,0.96,0.94117647,1.0,0.96969697
+Random Forest,word_2_3000,0.88,0.90625,0.90625,0.90625
+Random Forest,word_3_3000,0.92,0.91176471,0.96875,0.93939394
+Random Forest,word_1_4000,0.94,0.93939394,0.96875,0.95384615
+Random Forest,word_2_4000,0.88,0.88235294,0.9375,0.90909091
+Random Forest,word_3_4000,0.9,0.88571429,0.96875,0.92537314
+Random Forest,word_1_5000,0.98,0.96969697,1.0,0.98461538
+Random Forest,word_2_5000,0.86,0.85714286,0.9375,0.89552239
+Random Forest,word_3_5000,0.92,0.91176471,0.96875,0.93939394
+Random Forest,word_1_6000,0.96,0.96875,0.96875,0.96875
+Random Forest,word_2_6000,0.88,0.88235294,0.9375,0.90909091
+Random Forest,word_3_6000,0.92,0.91176471,0.96875,0.93939394
+Random Forest,word_1_7000,0.96,0.96875,0.96875,0.96875
+Random Forest,word_2_7000,0.9,0.90909091,0.9375,0.92307692
+Random Forest,word_3_7000,0.94,0.91428571,1.0,0.95522388
+Random Forest,word_1_8000,0.98,0.96969697,1.0,0.98461538
+Random Forest,word_2_8000,0.86,0.87878788,0.90625,0.89230769
+Random Forest,word_3_8000,0.92,0.91176471,0.96875,0.93939394
+Random Forest,word_1_9000,0.96,0.96875,0.96875,0.96875
+Random Forest,word_2_9000,0.9,0.90909091,0.9375,0.92307692
+Random Forest,word_3_9000,0.94,0.91428571,1.0,0.95522388
+Random Forest,word_1_10000,0.94,0.96774194,0.9375,0.95238095
+Random Forest,word_2_10000,0.88,0.90625,0.90625,0.90625
+Random Forest,word_3_10000,0.92,0.91176471,0.96875,0.93939394
+Multi-layer Perceptron,word_1_100,0.9,1.0,0.84375,0.91525424
+Multi-layer Perceptron,word_2_100,0.86,0.93103448,0.84375,0.8852459
+Multi-layer Perceptron,word_3_100,0.92,0.88888889,1.0,0.94117647
+Multi-layer Perceptron,word_1_500,0.94,1.0,0.90625,0.95081967
+Multi-layer Perceptron,word_2_500,0.88,1.0,0.8125,0.89655172
+Multi-layer Perceptron,word_3_500,0.92,0.91176471,0.96875,0.93939394
+Multi-layer Perceptron,word_1_1000,0.96,1.0,0.9375,0.96774194
+Multi-layer Perceptron,word_2_1000,0.84,0.96153846,0.78125,0.86206896
+Multi-layer Perceptron,word_3_1000,0.92,0.91176471,0.96875,0.93939394
+Multi-layer Perceptron,word_1_2000,0.98,1.0,0.96875,0.98412698
+Multi-layer Perceptron,word_2_2000,0.9,0.96551724,0.875,0.91803279
+Multi-layer Perceptron,word_3_2000,0.92,0.91176471,0.96875,0.93939394
+Multi-layer Perceptron,word_1_3000,0.98,1.0,0.96875,0.98412698
+Multi-layer Perceptron,word_2_3000,0.92,1.0,0.875,0.93333333
+Multi-layer Perceptron,word_3_3000,0.92,0.91176471,0.96875,0.93939394
+Multi-layer Perceptron,word_1_4000,0.98,1.0,0.96875,0.98412698
+Multi-layer Perceptron,word_2_4000,0.9,0.96551724,0.875,0.91803279
+Multi-layer Perceptron,word_3_4000,0.92,0.91176471,0.96875,0.93939394
+Multi-layer Perceptron,word_1_5000,0.98,1.0,0.96875,0.98412698
+Multi-layer Perceptron,word_2_5000,0.92,1.0,0.875,0.93333333
+Multi-layer Perceptron,word_3_5000,0.92,0.91176471,0.96875,0.93939394
+Multi-layer Perceptron,word_1_6000,0.98,1.0,0.96875,0.98412698
+Multi-layer Perceptron,word_2_6000,0.92,1.0,0.875,0.93333333
+Multi-layer Perceptron,word_3_6000,0.92,0.91176471,0.96875,0.93939394
+Multi-layer Perceptron,word_1_7000,0.98,1.0,0.96875,0.98412698
+Multi-layer Perceptron,word_2_7000,0.9,0.96551724,0.875,0.91803279
+Multi-layer Perceptron,word_3_7000,0.92,0.91176471,0.96875,0.93939394
+Multi-layer Perceptron,word_1_8000,0.98,1.0,0.96875,0.98412698
+Multi-layer Perceptron,word_2_8000,0.92,1.0,0.875,0.93333333
+Multi-layer Perceptron,word_3_8000,0.92,0.91176471,0.96875,0.93939394
+Multi-layer Perceptron,word_1_9000,0.98,1.0,0.96875,0.98412698
+Multi-layer Perceptron,word_2_9000,0.9,0.96551724,0.875,0.91803279
+Multi-layer Perceptron,word_3_9000,0.92,0.91176471,0.96875,0.93939394
+Multi-layer Perceptron,word_1_10000,0.98,1.0,0.96875,0.98412698
+Multi-layer Perceptron,word_2_10000,0.9,0.96551724,0.875,0.91803279
+Multi-layer Perceptron,word_3_10000,0.92,0.91176471,0.96875,0.93939394

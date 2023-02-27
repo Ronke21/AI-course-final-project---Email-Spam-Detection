@@ -1,0 +1,8 @@
+model,feature_matrix,accuracy,precision,recall,f1_score
+Decision Tree,word_1_8000,0.96,0.96551724,0.96551724,0.96551724
+KNN,word_1_500,0.94,0.96428571,0.93103448,0.94736842
+Logistic Regression,word_1_500,0.94,0.96428571,0.93103448,0.94736842
+Multi-layer Perceptron,word_1_3000,0.96,0.96551724,0.96551724,0.96551724
+Multinomial Naive Bayes,word_1_2000,0.98,1.0,0.96551724,0.98245614
+Random Forest,word_1_8000,0.9,0.9,0.93103448,0.91525424
+Support Vector Machine,word_1_2000,0.92,0.96296296,0.89655172,0.92857142
